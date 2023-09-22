@@ -1,7 +1,7 @@
 ### Olá, eu sou o Carlos Rodrigues 👋
 
-- Atualmete sou acadêmico de Ciência da computação
-- Estudando Engenharia de dado/ Quality Assurance
+- Atualmete sou acadêmico do curso Ciência da computação - IFCE Iguatu
+- Estudando Quality Assurance e deseenvolvimento de software
 - Pronomes: Ele/Dele
   
 ##
