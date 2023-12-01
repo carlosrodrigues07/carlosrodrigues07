@@ -1,6 +1,6 @@
 ### Olá, eu sou o Carlos Rodrigues 👋
 
-- Estudando desenvolvimento .NET e Qualidade de software QA
+- Estudando Ciência de dados / Redes Neurais Artificiais
 - Apaixonado por tecnologia e pesquisa!
   
 ## TECNOLOGIAS
@@ -9,6 +9,8 @@
      <img align= "center" alt="Rafa-Js" height="30"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
      <img align= "center" alt="Rafa-Js" height="30"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
      <img align= "center" alt="Rafa-Js" height="30"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+     
+          
     
       
   
