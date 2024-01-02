@@ -1,14 +1,15 @@
-### Olá, eu sou o Carlos Rodrigues 👋
+### Olá, eu sou o Carlos Henriue Rodrigues 👋
 
-- Estudando Ciência de dados / Redes Neurais Artificiais
 - Apaixonado por tecnologia e pesquisa!
   
 ## TECNOLOGIAS
 <div>
-     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
      <img align= "center" alt="Rafa-Js" height="30"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-     <img align= "center" alt="Rafa-Js" height="30"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-     <img align= "center" alt="Rafa-Js" height="30"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+     <img align= "center" alt="Rafa-Js" height="30"width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+     <img align= "center" alt="Rafa-Js" height="30"width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+     <img align= "center" alt="Rafa-Js" height="30"width="40"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
+          
      
           
     
